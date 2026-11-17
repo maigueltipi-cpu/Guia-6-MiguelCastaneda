@@ -1,0 +1,9 @@
+[
+  {
+    "idAsignacion": 1,
+    "idPiloto": 1,
+    "idAvion": 1,
+    "fechaVuelo": "2026-12-01",
+    "rutaAsignada": "BOG-CTG"
+  }
+]

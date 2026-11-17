@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carlos Ruiz",
+    "licencia": "ATP-1001",
+    "horasVuelo": 5200,
+    "estado": "activo"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "modelo": "Airbus A320",
+    "matricula": "HK-4501",
+    "capacidadMaxima": 180,
+    "fabricante": "Airbus"
+  }
+]
